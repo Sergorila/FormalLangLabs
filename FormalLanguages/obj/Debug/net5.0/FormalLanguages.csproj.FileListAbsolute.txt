@@ -1,0 +1,16 @@
+C:\Users\Sergey\source\repos\FormalLanguages\FormalLanguages\bin\Debug\net5.0\FormalLanguages.exe
+C:\Users\Sergey\source\repos\FormalLanguages\FormalLanguages\bin\Debug\net5.0\FormalLanguages.deps.json
+C:\Users\Sergey\source\repos\FormalLanguages\FormalLanguages\bin\Debug\net5.0\FormalLanguages.runtimeconfig.json
+C:\Users\Sergey\source\repos\FormalLanguages\FormalLanguages\bin\Debug\net5.0\FormalLanguages.runtimeconfig.dev.json
+C:\Users\Sergey\source\repos\FormalLanguages\FormalLanguages\bin\Debug\net5.0\FormalLanguages.dll
+C:\Users\Sergey\source\repos\FormalLanguages\FormalLanguages\bin\Debug\net5.0\ref\FormalLanguages.dll
+C:\Users\Sergey\source\repos\FormalLanguages\FormalLanguages\bin\Debug\net5.0\FormalLanguages.pdb
+C:\Users\Sergey\source\repos\FormalLanguages\FormalLanguages\obj\Debug\net5.0\FormalLanguages.csproj.AssemblyReference.cache
+C:\Users\Sergey\source\repos\FormalLanguages\FormalLanguages\obj\Debug\net5.0\FormalLanguages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\source\repos\FormalLanguages\FormalLanguages\obj\Debug\net5.0\FormalLanguages.AssemblyInfoInputs.cache
+C:\Users\Sergey\source\repos\FormalLanguages\FormalLanguages\obj\Debug\net5.0\FormalLanguages.AssemblyInfo.cs
+C:\Users\Sergey\source\repos\FormalLanguages\FormalLanguages\obj\Debug\net5.0\FormalLanguages.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\FormalLanguages\FormalLanguages\obj\Debug\net5.0\FormalLanguages.dll
+C:\Users\Sergey\source\repos\FormalLanguages\FormalLanguages\obj\Debug\net5.0\ref\FormalLanguages.dll
+C:\Users\Sergey\source\repos\FormalLanguages\FormalLanguages\obj\Debug\net5.0\FormalLanguages.pdb
+C:\Users\Sergey\source\repos\FormalLanguages\FormalLanguages\obj\Debug\net5.0\FormalLanguages.genruntimeconfig.cache

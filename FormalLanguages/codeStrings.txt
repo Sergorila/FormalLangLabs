@@ -1,0 +1,6 @@
+do while i > 12
+	i = i + 2
+	output i
+	i = i / 2
+	output i
+loop
