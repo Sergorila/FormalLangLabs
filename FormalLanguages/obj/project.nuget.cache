@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bNUe9Pv+55L/BLtKfSqiMNOfn93Nvq9bJSoL/0o9klUtqFPRRTjTlWl8riAoCw4xzVhR2hxMzpQ26UgkRmiCrw==",
+  "dgSpecHash": "PhWjFmh9zLqSBsYRLHaonAumGoMoVENs/nsCsHxzByr/X58Jo98WFtLNDDwN6rPpi+7VJ7EWUGz6oFM3I3tcTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sergey\\source\\repos\\FormalLanguages\\FormalLanguages\\FormalLanguages.csproj",
+  "projectFilePath": "C:\\Users\\Sergey\\Desktop\\FormalLangLabs\\FormalLanguages\\FormalLanguages.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
   ],

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sergey\\source\\repos\\FormalLanguages\\FormalLanguages\\FormalLanguages.csproj",
+      "projectUniqueName": "C:\\Users\\Sergey\\Desktop\\FormalLangLabs\\FormalLanguages\\FormalLanguages.csproj",
       "projectName": "FormalLanguages",
-      "projectPath": "C:\\Users\\Sergey\\source\\repos\\FormalLanguages\\FormalLanguages\\FormalLanguages.csproj",
+      "projectPath": "C:\\Users\\Sergey\\Desktop\\FormalLangLabs\\FormalLanguages\\FormalLanguages.csproj",
       "packagesPath": "C:\\Users\\Sergey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sergey\\source\\repos\\FormalLanguages\\FormalLanguages\\obj\\",
+      "outputPath": "C:\\Users\\Sergey\\Desktop\\FormalLangLabs\\FormalLanguages\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
